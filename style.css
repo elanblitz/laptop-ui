@@ -18,6 +18,7 @@ header {
 	height: 10vh;
 	margin: auto;
 	align-items: center;
+	color: rgb(100,124,187);
 }
 
 .logo-container,
@@ -44,6 +45,7 @@ nav {
 	color: #5f5f79;
 	font-size: 18px;
 	text-decoration: none;
+	color: rgb(100,124,187);
 }
 .cart {
 	flex: 1;
@@ -63,9 +65,7 @@ nav {
 .intro-text h1 {
 	font-size: 44px;
 	font-weight: 500;
-	background: linear-gradient(to right, #494964, #6f6f89);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
+	color: rgb(100,124,187);
 }
 .intro-text p {
 	margin-top: 5px;
@@ -175,5 +175,6 @@ nav {
 }
 
 footer{
+	margin-top: 45px;
 	text-align: center;
 }
