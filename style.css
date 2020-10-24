@@ -6,6 +6,7 @@
 
 body {
 	font-family: 'Poppins', sans-serif;
+	min-height: 100vh;
 }
 button {
 	font-family: 'Poppins', sans-serif;
@@ -179,4 +180,8 @@ nav {
 	.big-circle {
 		opacity: 0.2;
 	}
+}
+
+footer{
+	text-align: center;
 }
